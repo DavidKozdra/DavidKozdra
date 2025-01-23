@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats Editor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>GitHub Stats Card Editor</h1>
+        <form id="statsForm">
+            <div class="form-group">
+                <label for="username">GitHub Username:</label>
+                <input type="text" id="username" name="username" value="DavidKozdra">
+            </div>
+            <div class="form-group">
+                <label for="theme">Theme:</label>
+                <select id="theme" name="theme">
+                    <option value="dark">Dark</option>
+                    <option value="radical">Radical</option>
+                    <option value="tokyonight">Tokyo Night</option>
+                    <option value="gruvbox">Gruvbox</option>
+                    <option value="prussian">Prussian</option>
+                    <option value="monokai">Monokai</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="title_color">Title Color (Hex):</label>
+                <input type="color" id="title_color" name="title_color" value="#ff79c6">
+            </div>
+            <div class="form-group">
+                <label for="icon_color">Icon Color (Hex):</label>
+                <input type="color" id="icon_color" name="icon_color" value="#ffb86c">
+            </div>
+            <div class="form-group">
+                <label for="bg_color">Background Color (Hex):</label>
+                <input type="color" id="bg_color" name="bg_color" value="#282a36">
+            </div>
+            <div class="form-group">
+                <label for="show_icons">Show Icons:</label>
+                <input type="checkbox" id="show_icons" name="show_icons" checked>
+            </div>
+            <div class="form-group">
+                <button type="button" id="generate">Generate Card</button>
+            </div>
+        </form>
+        <h2>Generated Stats Card:</h2>
+        <div id="statsPreview">
+            <img id="statsCard" src="" alt="GitHub Stats Card">
+        </div>
+        <h3>Markdown Code:</h3>
+        <textarea id="markdownCode" readonly></textarea>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
