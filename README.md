@@ -1,10 +1,11 @@
 
 # **David Kozdra**  
+SOFTWARE ENGINEER , API develoment , GAME DEV 
 
 ## **📚 Skills**  
-- **Programming Languages:** Python, JavaScript, SQL, Rust  
-- **Frameworks & Tools:** React, Django, Flask, Docker, Kubernetes  
-- **Cloud Platforms:** AWS, GCP  
+- **Programming Languages:**  JavaScript, Python , SQL  
+- **Frameworks & Tools:** React, FastAPI, Flask, Docker  
+- **Cloud Platforms:** AWS, Digital Ocean
 - **Other Expertise:** CI/CD, Open Source Contributions  
 
 ---
