@@ -16,7 +16,6 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 ## 🚧 Current Focus / Goals
 
 - Django development and using webrtc
-- Building **Holes** game (API & front-end): [https://api.holesgame.com/game/](https://api.holesgame.com/game/)  
 - Developing the **WinTest** Chrome extension — [Install on Chrome Web Store](https://chromewebstore.google.com/detail/wintest/ckgcnleaajonjljmfbamgpffiemninbe)  
 - Pursuing a new full-stack MERN or Python role  
 
