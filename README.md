@@ -32,7 +32,7 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 **Highlight:** Processes 5,000 Individual Stock Updates , Custom Filters and More
 
 ### 🤖 [RedChat AI SEC Summarizer](https://red.chat)  
-**Tech:** React · AWS Lambda · FastAPI · NLP · LangChain
+**Tech:** React · AWS · FastAPI · LLMs and NLP · LangChain · RAG
 **Highlight:** 24/7 summarization of all new SEC filings documents and news 10,000 + installs on google play
 
 ### 📱 Promo Mobile App  
