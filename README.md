@@ -17,7 +17,7 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 
 - Building an epic social media platform soon to be announced.
 - Developing the **WinTest** Chrome extension — [Install on Chrome Web Store](https://chromewebstore.google.com/detail/wintest/ckgcnleaajonjljmfbamgpffiemninbe) . 
-- Pursuing a new full-stack MERN or Python role.  
+- Building Cool things for Cognara.AI
 
 ---
 
@@ -29,11 +29,11 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 
 ### 📈 [Real-Time Stock Portal](https://redchip.com/stocks)  
 **Tech:** PHP · Python · Flask · Docker  
-**Highlight:** Processes 10,000+ price updates per second  
+**Highlight:** Processes 5,000 Individual Stock Updates , Custom Filters and More
 
 ### 🤖 [RedChat AI SEC Summarizer](https://red.chat)  
-**Tech:** React · AWS Lambda · FastAPI · NLP  
-**Highlight:** 24/7 summarization of all new SEC filings  10,000 + installs on google play
+**Tech:** React · AWS Lambda · FastAPI · NLP · LangChain
+**Highlight:** 24/7 summarization of all new SEC filings documents and news 10,000 + installs on google play
 
 ### 📱 Promo Mobile App  
 **Tech:** React Native · Node.js · MongoDB  
