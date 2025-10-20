@@ -7,7 +7,7 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 # Skills
 
 
-![alt text](folder.png) ![alt text](JavaScript.png) ![alt text](Python.png) ![alt text](html.png) ![alt text](git.png) ![alt text](csharp.png) ![alt text](css.png) ![alt text](sql.png) ![alt text](TypeScript.png)
+![alt text](folder.png) ![alt text](JavaScript.png) ![alt text](Python.png) ![alt text](html.png) ![alt text](csharp.png) ![alt text](css.png) ![alt text](TypeScript.png)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=fff)  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=fff)  ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=fff)  ![React](https://img.shields.io/badge/React-17.0.2-cyan?logo=react&logoColor=fff)  ![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?logo=fastapi&logoColor=fff)  ![Flask](https://img.shields.io/badge/Flask-2.3.0-black?logo=flask&logoColor=fff)  ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue?logo=docker&logoColor=fff)  ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=fff)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-API-blue?logo=digitalocean&logoColor=fff)  ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions&logoColor=fff)  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?logo=github&logoColor=fff)
 
