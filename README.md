@@ -1,8 +1,8 @@
 
 # **Shalom**, **Hello** and **Salutations**, I’m **David Kozdra** 👋
 
-Central Florida–based Full Stack Software Engineer with over 3 years of professional experience.  
-I build web applications, mobile apps, PWAs, and backend data-aggregation platforms to **empower organizations to succeed**.
+A Central Florida–based Full Stack Software Engineer with over 3 years of professional experience.  
+I build web applications, mobile apps, PWAs, and backend data-aggregation platforms and anything needed to **empower organizations to succeed**.
 
 # Skills
 
@@ -15,28 +15,25 @@ I build web applications, mobile apps, PWAs, and backend data-aggregation platfo
 
 ## 🚧 Current Focus / Goals
 
-- Django development and using webrtc
-- Building **Holes** game (API & front-end): [https://api.holesgame.com/game/](https://api.holesgame.com/game/)  
-- Developing the **WinTest** Chrome extension — [Install on Chrome Web Store](https://chromewebstore.google.com/detail/wintest/ckgcnleaajonjljmfbamgpffiemninbe)  
-- Pursuing a new full-stack MERN or Python role  
-
-
+- Building an epic social media platform soon to be announced.
+- Developing the **WinTest** Chrome extension — [Install on Chrome Web Store](https://chromewebstore.google.com/detail/wintest/ckgcnleaajonjljmfbamgpffiemninbe) . 
+- Building Cool things for Cognara.AI
 
 ---
 
 ## 🧑‍💻 Featured Projects
 
 ### 🌐 [Portfolio Website](https://davidkozdra.com)  
-**Tech:** HTML · CSS · JavaScript  
-**Highlight:** Served 50 000+ visits/month with < 100 ms TTFB  
+**Tech:** HTML · CSS · JavaScript · Docker 
+**Highlight:** Served 20,000+ visits , tons of compliments from other devs  
 
 ### 📈 [Real-Time Stock Portal](https://redchip.com/stocks)  
 **Tech:** PHP · Python · Flask · Docker  
-**Highlight:** Processes 10 000+ price updates per second  
+**Highlight:** Processes 5,000 Individual Stock Updates , Custom Filters and More
 
 ### 🤖 [RedChat AI SEC Summarizer](https://red.chat)  
-**Tech:** React · AWS Lambda · FastAPI · NLP  
-**Highlight:** 24/7 summarization of all new SEC filings  
+**Tech:** React · AWS · FastAPI · LLMs and NLP · LangChain · RAG
+**Highlight:** 24/7 summarization of all new SEC filings documents and news 10,000 + installs on google play
 
 ### 📱 Promo Mobile App  
 **Tech:** React Native · Node.js · MongoDB  
